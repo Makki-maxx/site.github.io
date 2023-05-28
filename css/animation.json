@@ -1,0 +1,35 @@
+{
+  "• custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop • custom design shop •": {
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [
+        {
+          "id": "3yVGqoH6JtE5",
+          "ms": 0,
+          "property": "x",
+          "value": 291.5,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "kBaAxyBABkja",
+          "ms": 10000,
+          "property": "x",
+          "value": -29.5,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  }
+}

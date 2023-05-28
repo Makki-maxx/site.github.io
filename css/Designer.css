@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-image: #2E5ACE;
+    background-image: url(../img/patterns2.svg);
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    align-items: left;
+    justify-content: left;
+}
+.btn-circle.btn-xl{
+    color: #000;
+    border-color: #000;
+}
+.row{
+    height: auto;
+    width: auto;
+}
+.btn-circle.btn-sm {
+    width: 30px;
+    height: 30px;
+    padding: 6px 1px;
+    border-radius: 10px;
+    font-size: 8px;
+    text-align: center;
+    position: absolute;
+}
+.btn-circle.btn-md {
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+}
+.btn-circle.btn-xl {
+    color: black;
+    background-color: #ffffff;
+    width: 90px;
+    height: 26px;
+    padding: 0px 1px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+    top: 3px;
+    left: 68%;
+}
+.nav-link{
+    color: #000;
+}
+.nav-link.active {
+    color: #ffffff;
+  }
+.nav-link:hover{
+    text-decoration: none;
+    /*убрать подчёркивания*/
+    color: #ffffff;
+    /*цвет при наведении курсора*/}
+    .cart{
+        position: absolute;
+        top: 0%;
+        left: 96%;
+    }
+    .custom{
+        position: absolute;
+        top: 0%;
+        left: 0%;
+    }
+    #option-1 {
+        color: black;
+      }
+      #option-2 {
+        color: blue;
+      }
+      
+      #option-3 {
+        color: pink;
+      }
+      
+      #option-4 {
+        color: green;
+      }
+    .spisok1 {
+        font-size: 0.9rem;
+        padding: 2px 5px;
+        position: absolute;
+        left: 50%;
+        top: 0%;
+        border-radius: 10px;
+    }
+    select {
+        font-size: 0.9rem;
+        padding: 2px 5px;
+        position: fixed;
+        border-radius: 10px;
+    }
+    .spisok2 {
+        font-size: 0.9rem;
+        padding: 2px 5px;
+        position: absolute;
+        width: 138px;
+        height: 40px;
+        left: 59%;
+        top: 0%;
+        border-radius: 10px;
+    }  
+    .colos{
+        position: absolute;
+        height: 40px;
+        left: 50%;
+        top: 20%;
+    }
+    .colos2{
+        position: absolute;
+        height: 40px;
+        left: 65%;
+        top: 20%;
+    }
+    .colos3{
+        position: absolute;
+        height: 40px;
+        left: 50%;
+        top: 60%;
+    }
+    .colos4{
+        position: absolute;
+        height: 40px;
+        left: 65%;
+        top: 60%;
+    }
+.text-center{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+.c1{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+}
+.c2{
+    position: absolute;
+    top: 30%;
+    left: 55%;
+}
+.c3{
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
+.c4{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+}
+.c0{
+    position: absolute;
+    top: 5%;
+    left: 67%;
+}
+.c6{
+    position: absolute;
+    top: 63%;
+    left: 19%
+}
+.exit{
+    position: absolute;
+    top: 85%;
+    left: 69%;
+}
+.avatar{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+
+.btn-primary{
+    position: absolute;
+    border-color: #000;
+    height: 39px;
+    width: 99px;
+    top: 39%;
+    left: 25%;
+}
+.btn-danger{
+    position: absolute;
+    border-color: #000;
+    height: 39px;
+    width: 99px;
+    top: 39%;
+    left: 35%;
+}
+.text-center1{
+    position: absolute;
+    color: #ffff;
+    top: 13%;
+    left: 11%;
+}
+.spisok3 {
+    font-size: 0.9rem;
+    padding: 2px 5px;
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    border-radius: 10px;
+}
+select {
+    font-size: 0.9rem;
+    padding: 2px 5px;
+    position: fixed;
+    border-radius: 10px;
+}
+.spisok4 {
+    font-size: 0.9rem;
+    padding: 2px 5px;
+    position: absolute;
+    width: 138px;
+    height: 40px;
+    left: 35%;
+    top: 9%;
+    border-radius: 10px;
+}

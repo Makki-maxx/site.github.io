@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-image: #2E5ACE;
+    background-image: url(../img/patterns2.svg);
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    align-items: left;
+    justify-content: left;
+}
+.btn-circle.btn-xl{
+    color: #000;
+    border-color: #000;
+}
+.row{
+    height: auto;
+    width: auto;
+}
+
+.btn-circle.btn-sm {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    font-size: 8px;
+    text-align: center;
+}
+.btn-circle.btn-md {
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    text-align: center;
+}
+.btn-circle.btn-xl {
+    width: 200px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+.nav-link{
+    color: #000;
+}
+.nav-link.active {
+    color: #ffffff;
+  }
+.nav-link:hover{
+    text-decoration: none;
+    /*убрать подчёркивания*/
+    color: #ffffff;
+    /*цвет при наведении курсора*/}
+.cart{
+    position: absolute;
+    top: 0%;
+    left: 96%;
+}
+.custom{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}

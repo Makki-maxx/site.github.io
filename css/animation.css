@@ -1,0 +1,18 @@
+/*
+The CSS export should solely be used as a reference.
+For a more detailed animation export the JSON file should be used.
+*/
+#•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_• {
+    transform: translateX(-50%) translateY(-50%) scaleX(var(--fgmtn-scale-x)) scaleY(var(--fgmtn-scale-y)) rotate(var(--fgmtn-rotation));
+    animation: •_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•__x__1 10000ms 0ms linear forwards;
+}
+
+@keyframes •_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•_custom_design_shop_•__x__1 {
+    from {
+        left: 291.5px;
+    }
+
+    to {
+        left: -29.5px;
+    }
+}
